@@ -1,6 +1,6 @@
 #include "ArrayList.h"
 
-#include <gtest.h>
+#include <../gtest/gtest.h>
 #include <sstream>
 
 TEST(TArrayList, create_arraylist)
